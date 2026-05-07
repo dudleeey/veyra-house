@@ -60,14 +60,14 @@ const experiences = [
 ];
 
 const gallery = [
-  "https://images.unsplash.com/photo-1615529328331-f8917597711f?auto=format&fit=crop&w=1300&q=80",
-  "https://images.unsplash.com/photo-1617104551722-3b2d51366400?auto=format&fit=crop&w=1300&q=80",
+  "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1300&q=80",
+  "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=1300&q=80",
+  "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1300&q=80",
+  "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=1300&q=80",
+  "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1300&q=80",
+  "https://images.unsplash.com/photo-1493666438817-866a91353ca9?auto=format&fit=crop&w=1300&q=80",
+  "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1300&q=80",
   "https://images.unsplash.com/photo-1616594039964-3f31d1d1dd41?auto=format&fit=crop&w=1300&q=80",
-  "https://images.unsplash.com/photo-1615874959474-d609969a20ed?auto=format&fit=crop&w=1300&q=80",
-  "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?auto=format&fit=crop&w=1300&q=80",
-  "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=1300&q=80",
-  "https://images.unsplash.com/photo-1600494603989-9650cf6dad51?auto=format&fit=crop&w=1300&q=80",
-  "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1300&q=80",
 ];
 
 const journal = [
